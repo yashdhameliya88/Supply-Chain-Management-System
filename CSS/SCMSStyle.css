@@ -1,0 +1,143 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12 Feb, 2021, 2:16:42 PM
+    Author     : RadheRadhe*/
+
+
+.div1{
+    background-color: #E1E1E1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 40px;
+    color: #424570;
+}
+
+.img-fluid{
+ max-width: 100%;
+height: auto;   
+}
+
+
+/*------------------ HeaderPage CSS ---------------------*/
+.Nav-Right-Header:link {
+  color: rgba(255,255,255,.55);
+  text-decoration: none;
+}
+
+/* visited link */
+.Nav-Right-Header:visited {
+  color:rgba(255,255,255,.55);
+}
+
+/* mouse over link */
+.Nav-Right-Header:hover {
+  color: #d9e0e1;
+}
+
+
+/*------------------ Registration Form CSS ---------------------*/
+.reg1 input[type=text],textarea,input[type=password] {
+  width: 400px;
+  padding: 4px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+  color: #424570;
+  font-weight: bold;
+}
+
+
+.select1{
+  width: 400px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+  color: #424570;
+  font-weight: bold;
+} 
+
+.reg1 label {
+  padding: 8px 8px 8px 0;
+  display: inline-block;
+   font-weight: bold;
+}
+
+.reg1 input[type=submit] {
+  width: 200px;
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  float: right;
+  font-weight: bold;
+}
+
+.reg1 input[type=reset] {
+  width: 200px;
+  background-color: #BF0000;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  float: right;
+  font-weight: bold;
+}
+
+/*------------------ Login Form CSS ---------------------*/
+/*.border1{
+    border: 2px solid red;
+    border-style: inset; 
+    border-width:thin; 
+    border-color: red;
+    border-width: 5px;
+}*/
+
+
+/*------------------ Company Details Form CSS ---------------------*/
+.btnadd input[type=button]{
+  width: 200px;
+  background-color: #0068C7;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+/*  float: right;*/
+  font-weight: bold; 
+}
+
+.divcenter {
+    padding-top: 200px;
+}
+
+/*------------------ Show Supplier CSS ---------------------*/
+.tbl1 th{
+    border: solid black;
+    background-color: #CACACA;
+}
+
+.tbl1 td{
+    border: solid black;
+    background-color: #E6E7E7;
+}
+
+.tbl1 button{
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.tbl1 button{
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+}
