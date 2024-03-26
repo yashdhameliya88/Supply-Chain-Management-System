@@ -3,6 +3,8 @@
 
 Supply chains are often comprised of dozens of different people, processes and organizations, and because of this, companies rely on SCMS to help them manage and visualize the flow of goods from one end of the supply line to the other.
 
+<img src="./Image/SCMS Logo.jpg" alt="">
+
 ## Developers
 
 - [Bhadresh Ghevariya](https://www.linkedin.com/in/bhadresh-ghevariya-aa584515a/)
